@@ -1,0 +1,166 @@
+{
+  "path_d1": "uki_w1_s4_a6_d1.png",
+  "path_d5": "uki_w1_s4_a6_d5.png",
+  "masked_path_d1": "uki_w1_s4_a6_d1_masked.png",
+  "masked_path_d5": "uki_w1_s4_a6_d5_masked.png",
+  "mask_path_d1": "uki_w1_s4_a6_d1_mask.png",
+  "mask_path_d5": "uki_w1_s4_a6_d5_mask.png",
+  "metadata_path": "uki_w1_s4_a6_metadata.json",
+  "week": 1,
+  "shelf_row": "s",
+  "shelf_column": "4",
+  "well_row": "a",
+  "well_column": "6",
+  "num_leaves_d1": 4,
+  "num_leaves_d5": 12,
+  "area_d1": 11029,
+  "area_d5": 29278,
+  "leaves_d1": [
+    {
+      "masked_path": "d1/uki_w1_s4_a6_d1_01_masked.png",
+      "mask_path": "d1/uki_w1_s4_a6_d1_01_mask.png",
+      "area": 1509,
+      "bb_left": 239,
+      "bb_top": 269,
+      "bb_width": 40,
+      "bb_height": 49
+    },
+    {
+      "masked_path": "d1/uki_w1_s4_a6_d1_02_masked.png",
+      "mask_path": "d1/uki_w1_s4_a6_d1_02_mask.png",
+      "area": 3852,
+      "bb_left": 180,
+      "bb_top": 246,
+      "bb_width": 59,
+      "bb_height": 88
+    },
+    {
+      "masked_path": "d1/uki_w1_s4_a6_d1_03_masked.png",
+      "mask_path": "d1/uki_w1_s4_a6_d1_03_mask.png",
+      "area": 3848,
+      "bb_left": 252,
+      "bb_top": 221,
+      "bb_width": 83,
+      "bb_height": 62
+    },
+    {
+      "masked_path": "d1/uki_w1_s4_a6_d1_04_masked.png",
+      "mask_path": "d1/uki_w1_s4_a6_d1_04_mask.png",
+      "area": 1843,
+      "bb_left": 221,
+      "bb_top": 218,
+      "bb_width": 48,
+      "bb_height": 54
+    }
+  ],
+  "leaves_d5": [
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_01_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_01_mask.png",
+      "area": 5003,
+      "bb_left": 242,
+      "bb_top": 142,
+      "bb_width": 67,
+      "bb_height": 99
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_02_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_02_mask.png",
+      "area": 3969,
+      "bb_left": 303,
+      "bb_top": 226,
+      "bb_width": 84,
+      "bb_height": 62
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_03_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_03_mask.png",
+      "area": 1694,
+      "bb_left": 247,
+      "bb_top": 314,
+      "bb_width": 47,
+      "bb_height": 48
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_04_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_04_mask.png",
+      "area": 1446,
+      "bb_left": 306,
+      "bb_top": 184,
+      "bb_width": 33,
+      "bb_height": 55
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_05_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_05_mask.png",
+      "area": 4766,
+      "bb_left": 289,
+      "bb_top": 281,
+      "bb_width": 72,
+      "bb_height": 81
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_06_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_06_mask.png",
+      "area": 359,
+      "bb_left": 292,
+      "bb_top": 250,
+      "bb_width": 20,
+      "bb_height": 26
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_07_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_07_mask.png",
+      "area": 1413,
+      "bb_left": 242,
+      "bb_top": 281,
+      "bb_width": 47,
+      "bb_height": 40
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_08_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_08_mask.png",
+      "area": 1009,
+      "bb_left": 219,
+      "bb_top": 317,
+      "bb_width": 36,
+      "bb_height": 37
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_09_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_09_mask.png",
+      "area": 4396,
+      "bb_left": 211,
+      "bb_top": 207,
+      "bb_width": 83,
+      "bb_height": 75
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_10_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_10_mask.png",
+      "area": 3963,
+      "bb_left": 135,
+      "bb_top": 245,
+      "bb_width": 62,
+      "bb_height": 85
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_11_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_11_mask.png",
+      "area": 774,
+      "bb_left": 141,
+      "bb_top": 232,
+      "bb_width": 38,
+      "bb_height": 33
+    },
+    {
+      "masked_path": "d5/uki_w1_s4_a6_d5_12_masked.png",
+      "mask_path": "d5/uki_w1_s4_a6_d5_12_mask.png",
+      "area": 738,
+      "bb_left": 193,
+      "bb_top": 253,
+      "bb_width": 23,
+      "bb_height": 42
+    }
+  ]
+}

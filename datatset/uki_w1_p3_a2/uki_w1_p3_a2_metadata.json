@@ -1,0 +1,94 @@
+{
+  "path_d1": "uki_w1_p3_a2_d1.png",
+  "path_d5": "uki_w1_p3_a2_d5.png",
+  "masked_path_d1": "uki_w1_p3_a2_d1_masked.png",
+  "masked_path_d5": "uki_w1_p3_a2_d5_masked.png",
+  "mask_path_d1": "uki_w1_p3_a2_d1_mask.png",
+  "mask_path_d5": "uki_w1_p3_a2_d5_mask.png",
+  "metadata_path": "uki_w1_p3_a2_metadata.json",
+  "week": 1,
+  "shelf_row": "p",
+  "shelf_column": "3",
+  "well_row": "a",
+  "well_column": "2",
+  "num_leaves_d1": 3,
+  "num_leaves_d5": 5,
+  "area_d1": 9294,
+  "area_d5": 14851,
+  "leaves_d1": [
+    {
+      "masked_path": "d1/uki_w1_p3_a2_d1_01_masked.png",
+      "mask_path": "d1/uki_w1_p3_a2_d1_01_mask.png",
+      "area": 4513,
+      "bb_left": 192,
+      "bb_top": 217,
+      "bb_width": 94,
+      "bb_height": 62
+    },
+    {
+      "masked_path": "d1/uki_w1_p3_a2_d1_02_masked.png",
+      "mask_path": "d1/uki_w1_p3_a2_d1_02_mask.png",
+      "area": 1884,
+      "bb_left": 284,
+      "bb_top": 224,
+      "bb_width": 49,
+      "bb_height": 51
+    },
+    {
+      "masked_path": "d1/uki_w1_p3_a2_d1_03_masked.png",
+      "mask_path": "d1/uki_w1_p3_a2_d1_03_mask.png",
+      "area": 2897,
+      "bb_left": 257,
+      "bb_top": 250,
+      "bb_width": 57,
+      "bb_height": 74
+    }
+  ],
+  "leaves_d5": [
+    {
+      "masked_path": "d5/uki_w1_p3_a2_d5_01_masked.png",
+      "mask_path": "d5/uki_w1_p3_a2_d5_01_mask.png",
+      "area": 3945,
+      "bb_left": 269,
+      "bb_top": 256,
+      "bb_width": 77,
+      "bb_height": 67
+    },
+    {
+      "masked_path": "d5/uki_w1_p3_a2_d5_02_masked.png",
+      "mask_path": "d5/uki_w1_p3_a2_d5_02_mask.png",
+      "area": 3231,
+      "bb_left": 225,
+      "bb_top": 189,
+      "bb_width": 60,
+      "bb_height": 70
+    },
+    {
+      "masked_path": "d5/uki_w1_p3_a2_d5_03_masked.png",
+      "mask_path": "d5/uki_w1_p3_a2_d5_03_mask.png",
+      "area": 3599,
+      "bb_left": 162,
+      "bb_top": 228,
+      "bb_width": 79,
+      "bb_height": 70
+    },
+    {
+      "masked_path": "d5/uki_w1_p3_a2_d5_04_masked.png",
+      "mask_path": "d5/uki_w1_p3_a2_d5_04_mask.png",
+      "area": 2507,
+      "bb_left": 216,
+      "bb_top": 248,
+      "bb_width": 56,
+      "bb_height": 67
+    },
+    {
+      "masked_path": "d5/uki_w1_p3_a2_d5_05_masked.png",
+      "mask_path": "d5/uki_w1_p3_a2_d5_05_mask.png",
+      "area": 1677,
+      "bb_left": 280,
+      "bb_top": 209,
+      "bb_width": 42,
+      "bb_height": 47
+    }
+  ]
+}

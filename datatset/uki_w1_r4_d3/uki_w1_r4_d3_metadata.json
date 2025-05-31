@@ -1,0 +1,40 @@
+{
+  "path_d1": "uki_w1_r4_d3_d1.png",
+  "path_d5": "uki_w1_r4_d3_d5.png",
+  "masked_path_d1": "uki_w1_r4_d3_d1_masked.png",
+  "masked_path_d5": "uki_w1_r4_d3_d5_masked.png",
+  "mask_path_d1": "uki_w1_r4_d3_d1_mask.png",
+  "mask_path_d5": "uki_w1_r4_d3_d5_mask.png",
+  "metadata_path": "uki_w1_r4_d3_metadata.json",
+  "week": 1,
+  "shelf_row": "r",
+  "shelf_column": "4",
+  "well_row": "d",
+  "well_column": "3",
+  "num_leaves_d1": 1,
+  "num_leaves_d5": 1,
+  "area_d1": 3676,
+  "area_d5": 3250,
+  "leaves_d1": [
+    {
+      "masked_path": "d1/uki_w1_r4_d3_d1_01_masked.png",
+      "mask_path": "d1/uki_w1_r4_d3_d1_01_mask.png",
+      "area": 3676,
+      "bb_left": 222,
+      "bb_top": 218,
+      "bb_width": 75,
+      "bb_height": 67
+    }
+  ],
+  "leaves_d5": [
+    {
+      "masked_path": "d5/uki_w1_r4_d3_d5_01_masked.png",
+      "mask_path": "d5/uki_w1_r4_d3_d5_01_mask.png",
+      "area": 3250,
+      "bb_left": 239,
+      "bb_top": 212,
+      "bb_width": 53,
+      "bb_height": 80
+    }
+  ]
+}

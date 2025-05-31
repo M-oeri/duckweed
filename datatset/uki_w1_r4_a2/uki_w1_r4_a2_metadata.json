@@ -1,0 +1,157 @@
+{
+  "path_d1": "uki_w1_r4_a2_d1.png",
+  "path_d5": "uki_w1_r4_a2_d5.png",
+  "masked_path_d1": "uki_w1_r4_a2_d1_masked.png",
+  "masked_path_d5": "uki_w1_r4_a2_d5_masked.png",
+  "mask_path_d1": "uki_w1_r4_a2_d1_mask.png",
+  "mask_path_d5": "uki_w1_r4_a2_d5_mask.png",
+  "metadata_path": "uki_w1_r4_a2_metadata.json",
+  "week": 1,
+  "shelf_row": "r",
+  "shelf_column": "4",
+  "well_row": "a",
+  "well_column": "2",
+  "num_leaves_d1": 4,
+  "num_leaves_d5": 11,
+  "area_d1": 9771,
+  "area_d5": 24534,
+  "leaves_d1": [
+    {
+      "masked_path": "d1/uki_w1_r4_a2_d1_01_masked.png",
+      "mask_path": "d1/uki_w1_r4_a2_d1_01_mask.png",
+      "area": 4373,
+      "bb_left": 201,
+      "bb_top": 189,
+      "bb_width": 64,
+      "bb_height": 88
+    },
+    {
+      "masked_path": "d1/uki_w1_r4_a2_d1_02_masked.png",
+      "mask_path": "d1/uki_w1_r4_a2_d1_02_mask.png",
+      "area": 2783,
+      "bb_left": 236,
+      "bb_top": 254,
+      "bb_width": 73,
+      "bb_height": 51
+    },
+    {
+      "masked_path": "d1/uki_w1_r4_a2_d1_03_masked.png",
+      "mask_path": "d1/uki_w1_r4_a2_d1_03_mask.png",
+      "area": 2040,
+      "bb_left": 183,
+      "bb_top": 254,
+      "bb_width": 54,
+      "bb_height": 54
+    },
+    {
+      "masked_path": "d1/uki_w1_r4_a2_d1_04_masked.png",
+      "mask_path": "d1/uki_w1_r4_a2_d1_04_mask.png",
+      "area": 655,
+      "bb_left": 239,
+      "bb_top": 301,
+      "bb_width": 34,
+      "bb_height": 25
+    }
+  ],
+  "leaves_d5": [
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_01_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_01_mask.png",
+      "area": 4357,
+      "bb_left": 261,
+      "bb_top": 128,
+      "bb_width": 64,
+      "bb_height": 88
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_02_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_02_mask.png",
+      "area": 2510,
+      "bb_left": 311,
+      "bb_top": 174,
+      "bb_width": 56,
+      "bb_height": 60
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_03_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_03_mask.png",
+      "area": 4671,
+      "bb_left": 181,
+      "bb_top": 199,
+      "bb_width": 97,
+      "bb_height": 59
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_04_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_04_mask.png",
+      "area": 3008,
+      "bb_left": 240,
+      "bb_top": 224,
+      "bb_width": 67,
+      "bb_height": 70
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_05_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_05_mask.png",
+      "area": 845,
+      "bb_left": 229,
+      "bb_top": 178,
+      "bb_width": 46,
+      "bb_height": 30
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_06_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_06_mask.png",
+      "area": 385,
+      "bb_left": 279,
+      "bb_top": 205,
+      "bb_width": 34,
+      "bb_height": 20
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_07_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_07_mask.png",
+      "area": 2750,
+      "bb_left": 147,
+      "bb_top": 250,
+      "bb_width": 49,
+      "bb_height": 73
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_08_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_08_mask.png",
+      "area": 1756,
+      "bb_left": 186,
+      "bb_top": 283,
+      "bb_width": 56,
+      "bb_height": 48
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_09_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_09_mask.png",
+      "area": 3203,
+      "bb_left": 171,
+      "bb_top": 312,
+      "bb_width": 59,
+      "bb_height": 72
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_10_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_10_mask.png",
+      "area": 1063,
+      "bb_left": 131,
+      "bb_top": 294,
+      "bb_width": 39,
+      "bb_height": 42
+    },
+    {
+      "masked_path": "d5/uki_w1_r4_a2_d5_11_masked.png",
+      "mask_path": "d5/uki_w1_r4_a2_d5_11_mask.png",
+      "area": 122,
+      "bb_left": 167,
+      "bb_top": 324,
+      "bb_width": 8,
+      "bb_height": 21
+    }
+  ]
+}
