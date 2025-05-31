@@ -1,4 +1,4 @@
-# 📁 `uki_w1_p1_a1` Dataset
+# 📁 Duckweed Dataset
 
 This dataset contains structured image data related to duckweed, including original images, segmentation masks, masked outputs, and associated metadata. It is intended for use in tasks such as image segmentation, feature extraction, and analysis in computer vision projects.
 
