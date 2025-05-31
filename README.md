@@ -39,8 +39,3 @@ uki_w1_p1_a1/
 - Training segmentation models (e.g., U-Net)
 - Mask generation algorithm benchmarking
 - Preprocessing and visualization for computer vision tasks
-
-## ⚠ Notes
-
-- Be cautious about line endings (LF/CRLF) depending on OS.
-- If the dataset grows large, consider using [Git LFS](https://git-lfs.github.com/) for better versioning and performance.
